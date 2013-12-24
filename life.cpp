@@ -1,4 +1,3 @@
-
 #include<stdio.h>
 #include<stdlib.h>
 #include<math.h>
@@ -97,7 +96,7 @@ no++;
 printf("\n ");
 }
 if (!c){
-printf("Las matrices son iguales\n\n");             
+printf("No hay cambios\n\n");             
 break;
 }
 system("pause");
